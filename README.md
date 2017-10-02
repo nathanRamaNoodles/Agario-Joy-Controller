@@ -9,3 +9,17 @@ But for those with experience with autohotkey and arduino, these directions belo
 4. Wire the wii nunchuck to the arduino.
 5. play
 *may be necessary to change the center coordinates of the wii nunchuck in the arduino code*
+6.  GO to agar.io website for testing.  
+7. go fullscreen and position your mouse exactly on the center of the player(or cell).
+8.  Type the ULTRA COMBO "CTRL+SHIFT+ALT+S"
+9.  And that's it. Go and play!  THe wii nunchuck's should map the computer's screen and move according to your movement of the joystick!
+10. Oh yeah, to exit type "ESC"
+11. To exit out of AUTOHOTKEY program, type "CTRL+ESC"
+
+Extra feature!
+a. Game Modes: While holding the nunchuck properly, make a stabbing movement up and then downward to change game modes.  Current two games modes are AGAR.io(default) mode and Slither.io mode. 
+b. There is also a mouse mode. First hold the c button on the nunchuck and then perform the *Game Mode from (part a)*.     
+c. Scroll Mode 1(In Mouse Mode only): tilt the wii nunchuck sideways to engage scroll mode.  In this mode, you move the joystick to scroll across pages.
+d. Scroll Mode 2(In Mouse Mode only):tilt the other way and you can scroll even FASTER!
+e. While in Mouse mode, shake nunchuck sideways to disable joystick.
+f. While in either Game Mode, shake nunchuck sideways to exit out of a game(Similar to typing "ESC")
