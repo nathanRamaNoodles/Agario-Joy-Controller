@@ -17,9 +17,9 @@ But for those with experience with autohotkey and arduino, these directions belo
 11. To exit out of AUTOHOTKEY program, type "CTRL+ESC"
 
 Extra feature!
-a. Game Modes: While holding the nunchuck properly, make a stabbing movement up and then downward to change game modes.  Current two games modes are AGAR.io(default) mode and Slither.io mode. 
-b. There is also a mouse mode. First hold the c button on the nunchuck and then perform the *Game Mode from (part a)*.     
-c. Scroll Mode 1(In Mouse Mode only): tilt the wii nunchuck sideways to engage scroll mode.  In this mode, you move the joystick to scroll across pages.
-d. Scroll Mode 2(In Mouse Mode only):tilt the other way and you can scroll even FASTER!
-e. While in Mouse mode, shake nunchuck sideways to disable joystick.
-f. While in either Game Mode, shake nunchuck sideways to exit out of a game(Similar to typing "ESC")
+1. Game Modes: While holding the nunchuck properly, make a stabbing movement up and then downward to change game modes.  Current two games modes are AGAR.io(default) mode and Slither.io mode. 
+2. There is also a mouse mode. First hold the c button on the nunchuck and then perform the *Game Mode from (part a)*.     
+3. Scroll Mode 1(In Mouse Mode only): tilt the wii nunchuck sideways to engage scroll mode.  In this mode, you move the joystick to scroll across pages.
+4. Scroll Mode 2(In Mouse Mode only):tilt the other way and you can scroll even FASTER!
+5. While in Mouse mode, shake nunchuck sideways to disable joystick.
+6. While in either Game Mode, shake nunchuck sideways to exit out of a game(Similar to typing "ESC")
