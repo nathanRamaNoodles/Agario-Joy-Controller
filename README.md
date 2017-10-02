@@ -1,4 +1,4 @@
-# AgarioJoyController(Invented by Nathan Ramanathan, aka Nathan^2, aka Nathan(1+ram))
+# AgarioJoyController(Invented by Nathan Ramanathan)
 Used to play with Agar.io or other PC games that require the user's mouse to move a player around with the help of a joystick.
 
 *Read complete directions at instructables.com (coming soon)*
