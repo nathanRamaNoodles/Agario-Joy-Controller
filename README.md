@@ -9,7 +9,7 @@ But for those with experience with autohotkey and arduino, these directions belo
 4. Wire the wii nunchuck to the arduino.
 5. play
 *may be necessary to change the center coordinates of the wii nunchuck in the arduino code*
-6.  GO to [[Agario|agar.io]] website for testing.  
+6.  GO to [agario's](https://www.agar.io) website for testing.  
 7. go fullscreen and position your mouse exactly on the center of the player(or cell).
 8.  Type the ULTRA COMBO "CTRL+SHIFT+ALT+S"
 9.  And that's it. Go and play!  THe wii nunchuck's should map the computer's screen and move according to your movement of the joystick!
