@@ -16,10 +16,11 @@ That's when I found out about [AutoHotKey](https://autohotkey.com/).
 This software has the ability to capture the mouse coordinates with extreme precision.
 Because of this, I decided to make a circular region **similar to that of a joystick** to where the mouse could travel.
 So it's kind of like a moat around a *Castle*.
+![alt text][logo1]
 # My First Reaction
 After I decided to run my project for a **real test**, I had no idea how easy it was to play this game with my software!
 You guys should try it too!  I might even work with Matheus Valadares, Agar.io's CEO, to make this a real thing on kickstarter with even more feature.  **One thing is for sure, I am definitely not going to use a wii nunchuck.  I probably create my own type of hardware with the arduino pro micro embedded**
-![alt text][logo1]
+
 # How to use.
 Used to play with Agar.io or other PC games that require the user's mouse to move a player around with the help of a joystick.
 *Read complete directions at **instructables.com** (coming soon)*
