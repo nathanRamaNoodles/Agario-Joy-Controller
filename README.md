@@ -1,5 +1,6 @@
 # AgarioJoyController(Invented by Nathan Ramanathan) 
 ![alt text][logo]
+![alt text][arduino]
 # Materials used
 1. A computer (to play the PC game)
 2. A wii nunchuck
@@ -56,4 +57,5 @@ But for those with experience with autohotkey and arduino, these directions belo
 
 [logo]: https://raw.githubusercontent.com/nathanRamaNoodles/AgarioJoyController/nathanRamaNoodles-AUTOHOTKEY/AgarioNunchuckWorking.PNG "Agario Wii Nunchuck"
 [logo1]: https://i.stack.imgur.com/Q4nm0.png "Comptuer Mouse's path"
+[arduino]: https://github.com/nathanRamaNoodles/AgarioJoyController/blob/nathanRamaNoodles-AUTOHOTKEY/20171009_175710.jpg "Arduino Pro Micro"
 
