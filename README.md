@@ -1,6 +1,7 @@
 # AgarioJoyController(Invented by Nathan Ramanathan)
 Used to play with Agar.io or other PC games that require the user's mouse to move a player around with the help of a joystick.
-
+[Working Prototype video here.](https://youtu.be/2P4Ze2tlGww)
+[Update: A Minecraft Mode](https://youtu.be/VvpU20PSfPU)
 *Read complete directions at instructables.com (coming soon)*
 But for those with experience with autohotkey and arduino, these directions below should be enough.
 1. Run agario.ahk file through the [sciTe4Autohotkey](https://fincs.ahk4.net/scite4ahk/dl/s4ahk-install.exe) programmer.
