@@ -1,4 +1,6 @@
-# AgarioJoyController(Invented by Nathan Ramanathan)
+# AgarioJoyController(Invented by Nathan Ramanathan) 
+![alt text][logo]
+
 Used to play with Agar.io or other PC games that require the user's mouse to move a player around with the help of a joystick.
 *Read complete directions at instructables.com (coming soon)*
 But for those with experience with autohotkey and arduino, these directions below should be enough.
@@ -28,3 +30,7 @@ Extra feature!
 
 
 2.[Update: A Minecraft Mode](https://youtu.be/VvpU20PSfPU)
+
+
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
