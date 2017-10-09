@@ -1,16 +1,24 @@
 # AgarioJoyController(Invented by Nathan Ramanathan) 
 ![alt text][logo]
+# Materials used
+1. A computer (to play the PC game)
+2. A wii nunchuck
+3. An Arduino Pro micro
+4. Some jumper wires
 # Why did I make this?
 Because I love Agar.io and slither.io
 
-Unfortunately, these games were not built for game controllers.  Many people would just say "Nathan, why not make a joystick move the mouse"  I said, "Well, it's not that easy!".  **Well, I mean...sure you could simply move the mouse with a joystick.  But I don't think you are realizing how hard it is to move a mouse with a joystick in a PC GAME!** :rage:  
+Unfortunately, these PC games were not built for today's gaming controllers.  Many people would just say "Nathan, why not make a joystick move the mouse"  I said, "Well, it's not that easy!".  **Well, I mean...sure you could simply move the mouse with a joystick.  But I don't think you are realizing how hard it is to move a mouse with a joystick in a PC GAME!** :rage:  
 For example, the arduino pro micro has no idea where the mouse is located every millisecond.  Because of this, the arduino will move the mouse too far or too close from the player.  **It's basically like steering a car on an ice lake!**
 
-I had to use a different method to play these PC games 
+I had to use a different method to play these PC games. 
 That's when I found out about [AutoHotKey](https://autohotkey.com/).
 This software has the ability to capture the mouse coordinates with extreme precision.
 Because of this, I decided to make a circular region **similar to that of a joystick** to where the mouse could travel.
-So it's kind of like a moat in the *Medieval Times*.
+So it's kind of like a moat around a *Castle*.
+# My First Reaction
+After I decided to run my project for a **real test**, I had no idea how easy it was to play this game with my software!
+You guys should try it too!  I might even work with Matheus Valadares, Agar.io's CEO, to make this a real thing on kickstarter with even more feature.  **One thing is for sure, I am definitely not going to use a wii nunchuck.  I probably create my own type of hardware with the arduino pro micro embedded**
 ![alt text][logo1]
 # How to use.
 Used to play with Agar.io or other PC games that require the user's mouse to move a player around with the help of a joystick.
