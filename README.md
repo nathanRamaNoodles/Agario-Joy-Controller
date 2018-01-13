@@ -24,7 +24,8 @@ You guys should try it too!  I might even work with Matheus Valadares, Agar.io's
 
 # How to use.
 Used to play with Agar.io or other PC games that require the user's mouse to move a player around with the help of a joystick.
-*Read complete directions at **instructables.com** (coming soon)*
+*Read complete directions at **instructables.com**
+https://www.instructables.com/id/Trap-a-Mouse-Cursor-for-PC-Gaming/
 But for those with experience with autohotkey and arduino, these directions below should be enough.
 1. Run agario.ahk file through the [sciTe4Autohotkey](https://fincs.ahk4.net/scite4ahk/dl/s4ahk-install.exe) programmer.
 2. hit the play button.
